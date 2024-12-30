@@ -20,9 +20,3 @@ Um programa simples em Java que permite pesquisar informações de livros utiliz
 - **HttpClient**: Para realizar requisições HTTP.
 - **Gson**: Para manipulação e parsing de JSON.
 
-## 🚀 Como Executar o Programa
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/google-books-search.git
-   cd google-books-search
